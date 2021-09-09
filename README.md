@@ -1,0 +1,2 @@
+# The-project-is-a-practical-guide-for-the-developer-1C-8.3
+The project of the practical guide of the developer 1C 8.3. This project was developed based on the book by M. G. Radchenko, E. Y. Khrustalev  1C:Enterprise 8.2. Developer's Practical Guide.  Examples and typical techniquesThe project of the practical guide of the developer 1C 8.3. This project was developed based on the book by M. G. Radchenko, E. Y. Khrustalev  1C:Enterprise 8.2. Developer's Practical Guide.  Examples and typical techniques
